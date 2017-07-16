@@ -1,2 +1,2 @@
 # FileServer
-实现分布式文件管理的一个服务器
+A server that implements distributed file management
